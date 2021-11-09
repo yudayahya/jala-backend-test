@@ -1,3 +1,3 @@
 ## Setup Project
 
-- Dont forget to run migration & seeding.
+- Dont forget to install dependencies, run migration & seeding.
